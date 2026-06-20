@@ -2,7 +2,6 @@
 
 ## Project Author & Affiliation
 * **Author:** Harsh Chakravarti
-* **Application Intent:** Applicant for the IIT Kanpur Bachelors in Cybersecurity Program 2026
 
 ## Overview
 This is a Java-based security tool designed to demonstrate the core cybersecurity concept of **Data Integrity**. The program takes user input and passes it through one-way cryptographic hash functions to generate unique, fixed-size digital signatures. 
